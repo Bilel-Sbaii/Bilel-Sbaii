@@ -1,5 +1,3 @@
-Hello! I’m Bilel Sbai 👋
-
-👀 Interests: Competitive Programming, Software Engineering
-
-🌱 Currently Seeking: An end-of-studies internship opportunity to apply and expand my skills in software development and problem-solving.
+👋 Hi, I’m Bilel Sbai
+💻 Software Engineer at Medius  
+🧠 Passionate about Competitive Programming and Software Engineering  
